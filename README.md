@@ -4,8 +4,6 @@
 
 
     IEEE Signal Processing Letters, 2022
-<div style="width: 50%; text-align: center; margin:auto;">
-</div> 
 
 <div>
       Qi Zheng<sup>1</sup>,
