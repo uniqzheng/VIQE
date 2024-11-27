@@ -12,7 +12,7 @@
   <div>
   <sup>1</sup>Fudan University, <sup>2</sup>The University of Texas at Austin
        </div> 
-<br/>
+
 <div>
     <b>IEEE Signal Processing Letters, 2022</b>
 </div> 
