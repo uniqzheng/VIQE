@@ -85,6 +85,8 @@ for i = 1:num_videos
 %         ' -i ', video_name, ' -pix_fmt ', pixfmt, ...
 %         ' -s ', [num2str(width),'x',num2str(height)], ' -vsync 0 ', yuv_name];
 %     system(cmd);
+
+
 %   compute SLEEQ18 or SLEEQ1
 	feats_mat(i,:) = calc_SLEEQ18_Score(yuv_name,width, height, framerate, filelist.pixfmt{i}, ...
 	                       Gaus_sigma, blocksizerow, blocksizecol, blockrowoverlap, blockcoloverlap, sh_th);
