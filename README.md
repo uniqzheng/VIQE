@@ -70,3 +70,17 @@ Video-level socres are obtained by a weighted sum of above seven scores with pri
 ```shell
 bash run_all_bvqa_regression_by_content.sh
 ```
+
+## Citation
+
+```bibtex
+@ARTICLE{zheng22viqe,
+  author={Zheng, Qi and Tu, Zhengzhong and Zeng, Xiaoyang and Bovik, Alan C. and Fan, Yibo},
+  journal={IEEE Signal Processing Letters}, 
+  title={A Completely Blind Video Quality Evaluator}, 
+  year={2022},
+  volume={29},
+  number={},
+  pages={2228-2232},
+  doi={10.1109/LSP.2022.3215311}}
+```
