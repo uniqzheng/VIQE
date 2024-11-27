@@ -2,9 +2,6 @@
   <h1><a href="https://ieeexplore.ieee.org/document/9921340">A Completely Blind Video Quality Evaluator</a></h1> 
   
 
-
-    IEEE Signal Processing Letters, 2022
-
 <div>
       Qi Zheng<sup>1</sup>,
       Zhengzhong Tu<sup>2</sup>,
@@ -14,7 +11,10 @@
   </div>
   <div>
   <sup>1</sup>Fudan University, <sup>2</sup>The University of Texas at Austin
-       </div>   
+       </div> 
+    <div>
+           IEEE Signal Processing Letters, 2022  
+    </div> 
 
   <h2>Framework</h2> 
 
